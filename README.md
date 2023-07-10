@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @onejaelee
-- 👀 I’m interested in data science, conservation, and databases
-- 🌱 I’m currently learning AWS Cloud Services
-- 💞️ I’m looking to collaborate on data science or machine learning projects pertaining to conservation
 - 📫 How to reach me: ol2217@columbia.edu
 
 <!---
