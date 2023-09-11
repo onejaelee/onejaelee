@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onejaelee
-- 📫 How to reach me: ol2217@columbia.edu or one@soest.hawaii.edu
+- 📫 How to reach me: ol2217@columbia.edu or one@hawaii.edu
 
 <!---
 onejaelee/onejaelee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
